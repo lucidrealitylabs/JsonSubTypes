@@ -4,9 +4,10 @@
   "displayName": "JsonSubTypes",
   "description": "JsonSubTypes is a discriminated Json sub-type Converter implementation for .NET",
   "unity": "2020.3",
+  "hideInEditor": false,
   "documentationUrl": "https://github.com/lucidrealitylabs/JsonSubTypes",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "2.12"
+    "com.unity.nuget.newtonsoft-json": "3.0.0"
   },
   "author": {
     "name": "manuc66",
